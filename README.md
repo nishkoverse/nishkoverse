@@ -33,7 +33,7 @@ I am a passionate Open Source Developer, who commits code at night and merges it
 <h2 style = font-size: "50px"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/partying-face.gif" width="30"/>&nbsp <b>Certificates & Badges</b></h2>
 </p>
 <p align="left">
-<a href="https://www.credly.com/badges/213168a9-61d0-47d4-a02d-72e617ca7237/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/certificate/microsoft-certified-azure-data-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
+<a href="https://www.credly.com/badges/7ee02d7a-3597-40f5-9ac3-78c0c5c3fa1d/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/certificate/microsoft-certified-azure-data-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
 <a href="https://www.credly.com/badges/213168a9-61d0-47d4-a02d-72e617ca7237/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/certificate/microsoft-certified-azure-fundamentals.png"  alt="microsoft-certified-azure-fundamental" width="90" /></a>
 </p>
 
