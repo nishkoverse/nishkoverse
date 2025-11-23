@@ -4,7 +4,7 @@
 <h2 style = font-size: "50px" align=" left"><img src="https://raw.githubusercontent.com/thevedicdeveloper/devtools/main/emojis/telegram/technologist.gif" width="32"/>&nbsp <b>About Me</b></h2>
 
 <p align="left">
-I am a passionate Open Source Developer, who commits code at night and merges it in day. The only goal of my life is to fulfill my intellectual desire by reading, writing, twitting, teaching and making friends. I have a high interest in Mathematics, Physics, Algorithms, Economics and GeoPolitics.
+<b>nishko</b> is a passionate developer who loves to code that solves the real-world problems. The only goal of his life is to serve the God by serving the People. Besides this he loves to fulfill his intellectual curiosity by reading, writing, teaching. Parallely he also keeps very high interest in Mathematics, Physics, Economics, GeoPolitics and Philosophy.
 </p>
 
 <br>
