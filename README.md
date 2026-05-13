@@ -5,7 +5,3 @@ Beyond the keyboard, I am fueled by an intense intellectual curiosity. I spend m
 
 My focus is on translating these theoretical concepts into practical, impactful solutions that benefit others. My mission remains simple and consistent: to keep learning so that I may serve, and to keep serving so that I may empower those around me.
 </p>
-
-## Current Projects
-- **[Resumio](https://resumio.app)** - Resume writing, editing and organising tool.
-- **[Xponent](https://xponent.app)** - Everything Fitness Tracker.
